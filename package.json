@@ -1,6 +1,6 @@
 {
   "name": "reactless-jsx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compile JSX into a flat, runtime-agnostic JSXRoot object – no React required.",
   "main": "src/babel-plugin.js",
   "exports": {
@@ -25,16 +25,16 @@
     "template",
     "acorn"
   ],
-  "author": "Your Name <you@example.com>",
+  "author": "Mohammed Galal <mohammedgalal682@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/reactless-jsx.git"
+    "url": "git+https://github.com/Mohammed-Galal/reactless-jsx.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/reactless-jsx/issues"
+    "url": "https://github.com/Mohammed-Galal/reactless-jsx/issues"
   },
-  "homepage": "https://github.com/your-username/reactless-jsx#readme",
+  "homepage": "https://github.com/Mohammed-Galal/reactless-jsx#readme",
   "devDependencies": {
     "@babel/cli": "^7.29.7",
     "@babel/core": "^7.29.7",
